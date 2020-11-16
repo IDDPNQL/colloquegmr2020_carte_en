@@ -1,0 +1,4 @@
+Field Name = fid
+Webmap ID = cf14b359b62348aca8763345f8472620
+Layer ID = info_generale_data_20201027_6325
+App Id = 654a1fdc3dd0421198680a7129422da7
