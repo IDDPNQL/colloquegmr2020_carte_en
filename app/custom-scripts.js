@@ -1,4 +1,4 @@
-define(["dojo/topic"], function(topic) {
+require(["dojo/topic"], function(topic) {
 	/*
 	* Custom Javascript to be executed while the application is initializing goes here
 	*/
