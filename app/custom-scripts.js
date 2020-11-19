@@ -13,7 +13,7 @@ require(["dojo/topic","dijit/Dialog"], function(topic, Dialog) {
 	// Custom script to add a splash page
     	var splashPage = new Dialog ({
 		title: "<b>Instructions</b>",
-		content: "<table><tr><td><b>Specific Outlooks</b></td></tr><tr><td style='text-align: justify'>Navigate the map on the right-hand side of the screen and click on a community to display an outlook of its accessible waste management infrastructures.</td><td><img style='vertical-align:middle;margin:0px 25px' src='https://iddpnql.maps.arcgis.com/sharing/rest/content/items/32371679c5bd483993fae3dc90285d45/data' width='30' height='35'></td></tr><tr><td>&nbsp;</td></tr><tr><td><b>Summary Outlook</b></td></tr><tr><td>On the home screen, click the <img src='https://iddpnql.maps.arcgis.com/sharing/rest/content/items/992ef43db9f3447596b165fb4ddae39c/data' width='200' height='32'> button to display a waste management summary outlook of the communities.</td></tr></table>",
+		content: "<table><tr><td><b>Specific Outlooks</b></td></tr><tr><td style='text-align: justify'>Navigate the map on the right-hand side of the screen and click on a community to display an outlook of its accessible waste management infrastructures.</td><td><img style='vertical-align:middle;margin:0px 25px' src='https://iddpnql.maps.arcgis.com/sharing/rest/content/items/32371679c5bd483993fae3dc90285d45/data' width='30' height='35'></td></tr><tr><td>&nbsp;</td></tr><tr><td><b>Summary Outlook</b></td></tr><tr><td>On the home screen, click the <img src='https://iddpnql.maps.arcgis.com/sharing/rest/content/items/b353f85e1d7f4873900c6d4a4daec8a9/data' width='204' height='32'> button to display a waste management summary outlook of the communities.</td></tr></table>",
 		style: 'width: 600px; height: 300px;'
 	});
 	
